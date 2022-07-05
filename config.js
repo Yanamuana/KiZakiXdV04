@@ -5,38 +5,38 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '201507384088' ganti nomor kalian '628xxxxxx'
-//Gaara ganti nama kalian xxxxz
+// '6285783062411' ganti nomor kalian '628xxxxxx'
+//Abrul ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6283110508453']
-global.pengguna = 'Satria'
+global.owner = ['6285783062411']
+global.pengguna = 'Abrul'
 global.premium = []
-global.author = 'Findi Nurfita⁩'
-global.pemilik = ['6283110508453'] 
-global.ownernomer = '6283110508453'
-global.ownername = 'Satria'
-global.botname = 'XX4ZU Printer'
+global.author = 'Abrul x Yana'
+global.pemilik = ['6285783062411'] 
+global.ownernomer = '6285783062411'
+global.ownername = 'Abrul'
+global.botname = 'Yana V2'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6283110508453'
-global.footer = 'Satria'
+global.meki = '6285783062411'
+global.footer = 'Abrul'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Findi  Nurfita' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.namalu = 'Abrul x Yana' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Jangan Spam Bot anjing.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner Bot'
-global.yt = 'https://www.youtube.com/gaaraofc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/satria'
-global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '083110508453'
-global.gopay = '083110508453'
-global.wame = 'wa.me/6283110508453'
-global.email = 'satria@gmail.com'
+global.yt = 'https://www.youtube.com/gaarfc' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/Mabrur3772'
+global.gc = 'https://chat.whatsapp.com/CCyaeuaLuUbWCvQvFJLm' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '085709344807'
+global.gopay = '085709344807'
+global.wame = 'wa.me/6285783062411'
+global.email = 'Abrulyana@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/gaara'
-global.packname = '"{\nAuthor: Satria"\n"Bot Number: +237677670414"\n"Bot Name: XX4ZU Printer- MD"\n"Instagram: @gaara_xploite"\n}' 
+global.sc = 'https://bit.ly/Yanamuana'
+global.packname = '"{\nAuthor: Abrukxyana"\n"Bot Number: +6285783062411"\n"Bot Name: Yana V2- MD"\n"Instagram: @Mabrur3772"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -83,317 +83,317 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //Menu
 global.ccomannya = `
   「 *Main Menu* 」
- » script
- » speedtest
- » ping
- » owner
- » menu
- » delete
- » infochat
- » quoted
- » listpc
- » listonline
+ »୧⍤⃝ ✞script
+ »୧⍤⃝ ✞speedtest
+ »୧⍤⃝ ✞ping
+ »୧⍤⃝ ✞owner
+ »୧⍤⃝ ✞menu
+ »୧⍤⃝ ✞delete
+ »୧⍤⃝ ✞infochat
+ »୧⍤⃝ ✞quoted
+ »୧⍤⃝ ✞listpc
+ »୧⍤⃝ ✞listonline
   
   「 *Group Menu* 」
- » linkgroup
- » ephemeral [option]
- » setppgc [image]
- » setname [text]
- » setdesc [text]
- » group [option]
- » editinfo [option]
- » add @user
- » kick @user
- » hidetag [text]
- » tagall [text]
- » antilink [on/off]
- » mute [on/off]
- » promote @user
- » demote @user
- » vote [text]
- » devote
- » upvote
- » cekvote
- » hapusvote
+ »୧⍤⃝ ✞linkgroup
+ »୧⍤⃝ ✞ephemeral [option]
+ »୧⍤⃝ ✞setppgc [image]
+ »୧⍤⃝ ✞setname [text]
+ »୧⍤⃝ ✞setdesc [text]
+ »୧⍤⃝ ✞group [option]
+ »୧⍤⃝ ✞editinfo [option]
+ »୧⍤⃝ ✞add @user
+ »୧⍤⃝ ✞kick @user
+ »୧⍤⃝ ✞hidetag [text]
+ »୧⍤⃝ ✞tagall [text]
+ »୧⍤⃝ ✞antilink [on/off]
+ »୧⍤⃝ ✞mute [on/off]
+ »୧⍤⃝ ✞promote @user
+ »୧⍤⃝ ✞demote @user
+ »୧⍤⃝ ✞vote [text]
+ »୧⍤⃝ ✞devote
+ »୧⍤⃝ ✞upvote
+ »୧⍤⃝ ✞cekvote
+ »୧⍤⃝ ✞hapusvote
 
   「 *Owner Menu* 」
- » react [emoji]
- » chat [option]
- » join [link]
- » leave
- » block @user
- » setbiobot [text] 
- » unblock @user
- » bcgroup [text]
- » bcall [text]
- » setppbot [image]
- » setexif
+ »୧⍤⃝ ✞react [emoji]
+ »୧⍤⃝ ✞chat [option]
+ »୧⍤⃝ ✞join [link]
+ »୧⍤⃝ ✞leave
+ »୧⍤⃝ ✞block @user
+ »୧⍤⃝ ✞setbiobot [text] 
+ »୧⍤⃝ ✞unblock @user
+ »୧⍤⃝ ✞bcgroup [text]
+ »୧⍤⃝ ✞bcall [text]
+ »୧⍤⃝ ✞setppbot [image]
+ »୧⍤⃝ ✞setexif
   
   「 *Rpg Menu* 」
- » berburu
- » mancing
- » menambang
- » mining
- » heal
- » profile
- » inventory
- » leaderboard
- » buy
- » sell
+ »୧⍤⃝ ✞berburu
+ »୧⍤⃝ ✞mancing
+ »୧⍤⃝ ✞menambang
+ »୧⍤⃝ ✞mining
+ »୧⍤⃝ ✞heal
+ »୧⍤⃝ ✞profile
+ »୧⍤⃝ ✞inventory
+ »୧⍤⃝ ✞leaderboard
+ »୧⍤⃝ ✞buy
+ »୧⍤⃝ ✞sell
 
   「 *Downloader Menu* 」
- » tiktok [url]
- » instagram [url]
- » twitter [url]
- » facebook [url]
- » igstory [query]
- » umma [url]
- » mediafire [url]
- » gitclone [url]
+ »୧⍤⃝ ✞tiktok [url]
+ »୧⍤⃝ ✞instagram [url]
+ »୧⍤⃝ ✞twitter [url]
+ »୧⍤⃝ ✞facebook [url]
+ »୧⍤⃝ ✞igstory [query]
+ »୧⍤⃝ ✞umma [url]
+ »୧⍤⃝ ✞mediafire [url]
+ »୧⍤⃝ ✞gitclone [url]
  
   「 *Text Pro Menu* 」
- » textmaker glicth [Text]
- » textmaker glow [Text]
- » flasmurf [Text]
- » flarun [Text]
- » fluming [Text]
- » flaming [Text]
- » lava [Text]
- » neonlight [Text]
- » fabric [Text]
- » glue [Text]
- » luxury [Text]
- » underwater [Text]
- » harrypotter [Text]
- » steel [Text]
- » metallic [Text]
- » graffiti [Text]
- » pencil [Text]
- » sand [Text]
- » magma [Text]
- » joker [Text]
- » sky [Text]
- » matrix [Text]
- » neon [Text]
- » blackpink [Text]
- » thunder [Text]
- » whitebear [Text]
- » hoorror [Text]
- » 8bit [Text]
- » horror [Text]
- » retro [Text]
- » pornhub [Text]
- » juice [Text]
- » batman [Text]
- » multicolor [Text]
- » collwall [Text]
- » cool [Text]
- » wonderful [Text]
- » sketch [Text]
- » skeleton [Text]
- » marvel [Text]
- » foggy [Text]
- » writing [Text]
- » halloween [Text]
- » watercolor [Text]
- » classic [Text]
- » rainbow [Text]
- » sci_fi [Text]
- » christmas [Text]
- » ancient [Text]
- » toxic [Text]
+ »୧⍤⃝ ✞textmaker glicth [Text]
+ »୧⍤⃝ ✞textmaker glow [Text]
+ »୧⍤⃝ ✞flasmurf [Text]
+ »୧⍤⃝ ✞flarun [Text]
+ »୧⍤⃝ ✞fluming [Text]
+ »୧⍤⃝ ✞flaming [Text]
+ »୧⍤⃝ ✞lava [Text]
+ »୧⍤⃝ ✞neonlight [Text]
+ »୧⍤⃝ ✞fabric [Text]
+ »୧⍤⃝ ✞glue [Text]
+ »୧⍤⃝ ✞luxury [Text]
+ »୧⍤⃝ ✞underwater [Text]
+ »୧⍤⃝ ✞harrypotter [Text]
+ »୧⍤⃝ ✞steel [Text]
+ »୧⍤⃝ ✞metallic [Text]
+ »୧⍤⃝ ✞graffiti [Text]
+ »୧⍤⃝ ✞pencil [Text]
+ »୧⍤⃝ ✞sand [Text]
+ »୧⍤⃝ ✞magma [Text]
+ »୧⍤⃝ ✞joker [Text]
+ »୧⍤⃝ ✞sky [Text]
+ »୧⍤⃝ ✞matrix [Text]
+ »୧⍤⃝ ✞neon [Text]
+ »୧⍤⃝ ✞blackpink [Text]
+ »୧⍤⃝ ✞thunder [Text]
+ »୧⍤⃝ ✞whitebear [Text]
+ »୧⍤⃝ ✞hoorror [Text]
+ »୧⍤⃝ ✞8bit [Text]
+ »୧⍤⃝ ✞horror [Text]
+ »୧⍤⃝ ✞retro [Text]
+ »୧⍤⃝ ✞pornhub [Text]
+ »୧⍤⃝ ✞juice [Text]
+ »୧⍤⃝ ✞batman [Text]
+ »୧⍤⃝ ✞multicolor [Text]
+ »୧⍤⃝ ✞collwall [Text]
+ »୧⍤⃝ ✞cool [Text]
+ »୧⍤⃝ ✞wonderful [Text]
+ »୧⍤⃝ ✞sketch [Text]
+ »୧⍤⃝ ✞skeleton [Text]
+ »୧⍤⃝ ✞marvel [Text]
+ »୧⍤⃝ ✞foggy [Text]
+ »୧⍤⃝ ✞writing [Text]
+ »୧⍤⃝ ✞halloween [Text]
+ »୧⍤⃝ ✞watercolor [Text]
+ »୧⍤⃝ ✞classic [Text]
+ »୧⍤⃝ ✞rainbow [Text]
+ »୧⍤⃝ ✞sci_fi [Text]
+ »୧⍤⃝ ✞christmas [Text]
+ »୧⍤⃝ ✞ancient [Text]
+ »୧⍤⃝ ✞toxic [Text]
 
   「 *Stalker Menu* 」
- » ghstalk [query]
- » igstalk [query]
- » ffstalk [query]
- » supersusstalk [query]
+ »୧⍤⃝ ✞ghstalk [query]
+ »୧⍤⃝ ✞igstalk [query]
+ »୧⍤⃝ ✞ffstalk [query]
+ »୧⍤⃝⃝ ✞supersusstalk [query]
 
   「 *Internet Menu* 」
- » ip [query]
- » iploc [query]
- » ipinfo [query]
- » ssweb [query]
+ »୧⍤⃝ ✞ip [query]
+ »୧⍤⃝ ✞iploc [query]
+ »୧⍤⃝ ✞ipinfo [query]
+ »୧⍤⃝ ✞ssweb [query]
   
   「 *Search Menu* 」
- » play [query]
- » yts [query]
- » google [query]
- » gimage [query]
- » pinterest [query]
- » wallpaper [query]
- » wikimedia [query]
- » ytsearch [query]
- » ringtone [query]
- » stalk [option] [query]
- » webtoons [query]
- » drakor [query]
- » anime [query]
- » character [query]
- » manga [query]
+ »୧⍤⃝ ✞play [query]
+ »୧⍤⃝ ✞yts [query]
+ »୧⍤⃝ ✞google [query]
+ »୧⍤⃝ ✞gimage [query]
+ »୧⍤⃝ ✞pinterest [query]
+ »୧⍤⃝ ✞wallpaper [query]
+ »୧⍤⃝ ✞wikimedia [query]
+ »୧⍤⃝ ✞ytsearch [query]
+ »୧⍤⃝ ✞ringtone [query]
+ »୧⍤⃝ ✞stalk [option] [query]
+ »୧⍤⃝ ✞webtoons [query]
+ »୧⍤⃝ ✞drakor [query]
+ »୧⍤⃝ ✞anime [query]
+ »୧⍤⃝ ✞character [query]
+ »୧⍤⃝ ✞manga [query]
 
   「 *Random Menu* 」
- » coffe
- » quotesanime
- » couple
- » anime
- » waifu (nsfw)
- » husbu (nsfw)
- » neko (nsfw)
- » shinobu (nsfw)
- » waifus (nsfw)
- » nekos (nsfw)
- » trap (nsfw)
- » blowjob (nsfw)
+ »୧⍤⃝ ✞coffe
+ »୧⍤⃝ ✞quotesanime
+ »୧⍤⃝ ✞couple
+ »୧⍤⃝ ✞anime
+ »୧⍤⃝ ✞waifu (nsfw)
+ »୧⍤⃝ ✞husbu (nsfw)
+ »୧⍤⃝ ✞neko (nsfw)
+ »୧⍤⃝ ✞shinobu (nsfw)
+ »୧⍤⃝ ✞waifus (nsfw)
+ »୧⍤⃝ ✞nekos (nsfw)
+ »୧⍤⃝ ✞trap (nsfw)
+ »୧⍤⃝ ✞blowjob (nsfw)
 
   「 *Random Anime Menu* 」
- » loli
- » neko
- » waifu
- » shinobu
- » megumin
- » bully
- » cuddle
- » cry
- » hug
- » awoo
- » kiss
- » lick
- » pat
- » smug
- » bonk
- » yeet
- » blush
- » smile
- » wave
- » highfive
- » handhold
- » nom
- » bite
- » glomp
- » slap
- » kill
- » happy
- » wink
- » poke
- » dance
- » cringe
+ »୧⍤⃝ ✞loli
+ »୧⍤⃝ ✞neko
+ »୧⍤⃝ ✞waifu
+ »୧⍤⃝ ✞shinobu
+ »୧⍤⃝ ✞megumin
+ »୧⍤⃝ ✞bully
+ »୧⍤⃝ ✞cuddle
+ »୧⍤⃝ ✞cry
+ »୧⍤⃝ ✞hug
+ »୧⍤⃝ ✞awoo
+ »୧⍤⃝ ✞kiss
+ »୧⍤⃝ ✞lick
+ »୧⍤⃝ ✞pat
+ »୧⍤⃝ ✞smug
+ »୧⍤⃝ ✞bonk
+ »୧⍤⃝ ✞yeet
+ »୧⍤⃝ ✞blush
+ »୧⍤⃝ ✞smile
+ »୧⍤⃝ ✞wave
+ »୧⍤⃝ ✞highfive
+ »୧⍤⃝ ✞handhold
+ »୧⍤⃝ ✞nom
+ »୧⍤⃝ ✞bite
+ »୧⍤⃝ ✞glomp
+ »୧⍤⃝ ✞slap
+ »୧⍤⃝ ✞kill
+ »୧⍤⃝ ✞happy
+ »୧⍤⃝ ✞wink
+ »୧⍤⃝ ✞poke
+ »୧⍤⃝ ✞dance
+ »୧⍤⃝ ✞cringe
 
   「 *Fun Menu* 」
- » bagaimanakah
- » kapankah
- » apakah
- » bisakah
- » rate
- » wangy
- » gantengcek
- » cekganteng
- » cantikcek
- » cekcantik
- » sangecek
- » ceksange
- » cekme
- » gaycek
- » cekgay
- » lesbicek
- » halah
- » hilih
- » huluh
- » heleh
- » holoh
- » jadian
- » jodohku
- » delttt
- » tictactoe
- » family100
- » tebak [option]
- » math [mode]
- » suitpvp [@tag]
+ »୧⍤⃝ ✞bagaimanakah
+ »୧⍤⃝ ✞kapankah
+ »୧⍤⃝ ✞apakah
+ »୧⍤⃝ ✞bisakah
+ »୧⍤⃝ ✞rate
+ »୧⍤⃝ ✞wangy
+ »୧⍤⃝ ✞gantengcek
+ »୧⍤⃝ ✞cekganteng
+ »୧⍤⃝ ✞cantikcek
+ »୧⍤⃝ ✞cekcantik
+ »୧⍤⃝ ✞sangecek
+ »୧⍤⃝ ✞ceksange
+ »୧⍤⃝ ✞cekme
+ »୧⍤⃝ ✞gaycek
+ »୧⍤⃝ ✞cekgay
+ »୧⍤⃝ ✞lesbicek
+ »୧⍤⃝ ✞halah
+ »୧⍤⃝ ✞hilih
+ »୧⍤⃝ ✞huluh
+ »୧⍤⃝ ✞heleh
+ »୧⍤⃝ ✞holoh
+ »୧⍤⃝ ✞jadian
+ »୧⍤⃝ ✞jodohku
+ »୧⍤⃝ ✞delttt
+ »୧⍤⃝ ✞tictactoe
+ »୧⍤⃝ ✞family100
+ »୧⍤⃝ ✞tebak [option]
+ »୧⍤⃝ ✞math [mode]
+ »୧⍤⃝ ✞suitpvp [@tag]
 
   「 *Primbon Menu* 」
- » nomorhoki
- » artimimpi
- » artinama
- » ramaljodoh
- » ramaljodohbali
- » suamiistri
- » ramalcinta
- » cocoknama
- » pasangan
- » jadiannikah
- » sifatusaha
- » rezeki
- » pekerjaan
- » nasib
- » penyakit
- » tarot
- » fengshui
- » haribaik
- » harisangar
- » harisial
- » nagahari
- » arahrezeki
- » peruntungan
- » weton
- » karakter
- » keberuntungan
- » memancing
- » masasubur
- » zodiak
- » shio
+ »୧⍤⃝ ✞nomorhoki
+ »୧⍤⃝ ✞artimimpi
+ »୧⍤⃝ ✞artinama
+ »୧⍤⃝ ✞ramaljodoh
+ »୧⍤⃝ ✞ramaljodohbali
+ »୧⍤⃝ ✞suamiistri
+ »୧⍤⃝ ✞ramalcinta
+ »୧⍤⃝ ✞cocoknama
+ »୧⍤⃝ ✞pasangan
+ »୧⍤⃝ ✞jadiannikah
+ »୧⍤⃝ ✞sifatusaha
+ »୧⍤⃝ ✞rezeki
+ »୧⍤⃝ ✞pekerjaan
+ »୧⍤⃝ ✞nasib
+ »୧⍤⃝ ✞penyakit
+ »୧⍤⃝ ✞tarot
+ »୧⍤⃝ ✞fengshui
+ »୧⍤⃝ ✞haribaik
+ »୧⍤⃝ ✞harisangar
+ »୧⍤⃝ ✞harisial
+ »୧⍤⃝ ✞nagahari
+ »୧⍤⃝ ✞arahrezeki
+ »୧⍤⃝ ✞peruntungan
+ »୧⍤⃝ ✞weton
+ »୧⍤⃝ ✞karakter
+ »୧⍤⃝ ✞keberuntungan
+ »୧⍤⃝ ✞memancing
+ »୧⍤⃝ ✞masasubur
+ »୧⍤⃝ ✞zodiak
+ »୧⍤⃝ ✞shio
 
   「 *Convert Menu* 」
- » toimage
- » removebg
- » sticker
- » emojimix
- » tovideo
- » togif
- » tourl
- » tovn
- » tomp3
- » toaudio
- » ebinary
- » dbinary
- » styletext
- » smeme
+ »୧⍤⃝ ✞toimage
+ »୧⍤⃝ ✞removebg
+ »୧⍤⃝ ✞sticker
+ »୧⍤⃝ ✞emojimix
+ »୧⍤⃝ ✞tovideo
+ »୧⍤⃝ ✞togif
+ »୧⍤⃝ ✞tourl
+ »୧⍤⃝ ✞tovn
+ »୧⍤⃝ ✞tomp3
+ »୧⍤⃝ ✞toaudio
+ »୧⍤⃝ ✞ebinary
+ »୧⍤⃝ ✞dbinary
+ »୧⍤⃝ ✞styletext
+ »୧⍤⃝ ✞smeme
 
   「 *Database Menu* 」
- » setcmd
- » listcmd
- » delcmd
- » lockcmd
- » addmsg
- » listmsg
- » getmsg
- » delmsg
+ »୧⍤⃝ ✞setcmd
+ »୧⍤⃝ ✞listcmd
+ »୧⍤⃝ ✞delcmd
+ »୧⍤⃝ ✞lockcmd
+ »୧⍤⃝ ✞addmsg
+ »୧⍤⃝ ✞listmsg
+ »୧⍤⃝ ✞getmsg
+ »୧⍤⃝ ✞delmsg
 
   「 *Anonymous Menu* 」
- » anonymous
- » start
- » next
- » keluar
- » sendkontak
+ »୧⍤⃝ ✞anonymous
+ »୧⍤⃝ ✞start
+ »୧⍤⃝ ✞next
+ »୧⍤⃝ ✞keluar
+ »୧⍤⃝ ✞sendkontak
 
   「 *Islamic Menu* 」
- » iqra
- » hadist
- » alquran
- » juzamma
- » tafsirsurah
+ »୧⍤⃝ ✞iqra
+ »୧⍤⃝ ✞hadist
+ »୧⍤⃝ ✞alquran
+ »୧⍤⃝ ✞juzamma
+ »୧⍤⃝ ✞tafsirsurah
 
   「 *Voice Changer* 」
- » bass
- » blown
- » deep
- » earrape
- » fast
- » fat
- » nightcore
- » reverse
- » robot
- » slow
- » tupai
+ »୧⍤⃝ ✞bass
+ »୧⍤⃝ ✞blown
+ »୧⍤⃝ ✞deep
+ »୧⍤⃝ ✞earrape
+ »୧⍤⃝ ✞fast
+ »୧⍤⃝ ✞fat
+ »୧⍤⃝ ✞nightcore
+ »୧⍤⃝ ✞reverse
+ »୧⍤⃝ ✞robot
+ »୧⍤⃝ ✞slow
+ »୧⍤⃝ ✞tupai
 `
 global.sewanya =
 '  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 5K_\n   _• Sewa Bot 1 Bulan : 10K_\n   _• Sewa Bot 1 Tahun : 25K_'
